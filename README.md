@@ -1,2 +1,2 @@
 # web-pocketfinance
- The HTML and JS scripts repository fo pocket-finance appliacation
+ The HTML and JS scripts repository fo pocket-finance application
